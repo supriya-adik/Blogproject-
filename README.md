@@ -1,2 +1,2 @@
 # Blogproject-
-Bogging Application using Django bootstrap css
+Blogging Application using Django bootstrap css completed..
